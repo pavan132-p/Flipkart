@@ -37,3 +37,5 @@ Defect Log and Severity Reporting
 Logged all identified defects in a defect report, detailing their nature, severity, and potential impact on the user experience. Each defect was accompanied by screenshots or video recordings for clarity and reference.
 Outcome
 This project provided a thorough evaluation of the Special Offers functionality, confirming its strengths and identifying areas for improvement. Through detailed functional and usability testing, we ensured that the feature not only functions correctly but also delivers a positive user experience. Recommendations from this project offer actionable insights for enhancing the usability and reliability of the Special Offers section on the Flipkart OpenCart demo e-commerce website.
+
+[Test Plan](https://docs.google.com/document/d/1YwSeaf0nDxYXC8oQo8B63T0qPTISc-8G/edit?usp=sharing&ouid=117014204807726270149&rtpof=true&sd=true)
