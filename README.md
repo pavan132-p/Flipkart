@@ -39,3 +39,9 @@ Outcome
 This project provided a thorough evaluation of the Special Offers functionality, confirming its strengths and identifying areas for improvement. Through detailed functional and usability testing, we ensured that the feature not only functions correctly but also delivers a positive user experience. Recommendations from this project offer actionable insights for enhancing the usability and reliability of the Special Offers section on the Flipkart OpenCart demo e-commerce website.
 
 [Test Plan](https://docs.google.com/document/d/1YwSeaf0nDxYXC8oQo8B63T0qPTISc-8G/edit?usp=sharing&ouid=117014204807726270149&rtpof=true&sd=true)
+[Test Scenarios](https://docs.google.com/document/d/1t0VpFhFxupaVQtbRRyh5cgHMz6lYWD9v/edit?usp=drive_link&ouid=117014204807726270149&rtpof=true&sd=true).
+[Test Cases](https://docs.google.com/document/d/1YwSeaf0nDxYXC8oQo8B63T0qPTISc-8G/edit?usp=sharing&ouid=117014204807726270149&rtpof=true&sd=true).
+[Bug report](https://docs.google.com/document/d/1otU0osRdaz8QG_un9EJNQcBAxWkU-Ky-/edit?usp=drive_link&ouid=117014204807726270149&rtpof=true&sd=true).
+[Test Summary](https://docs.google.com/document/d/1HwylrnCpvb5TAEt9_0L-9xQSJ0ubs88A/edit?usp=sharing&ouid=117014204807726270149&rtpof=true&sd=true).
+
+
